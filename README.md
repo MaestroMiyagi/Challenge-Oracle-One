@@ -1,6 +1,5 @@
-[object Object]
-
 # Challenge-Oracle-One
+
 ## Text Encoder/Decoder
 
 This is a simple text encoder/decoder tool that allows you to encrypt and decrypt text using a specific set of encryption rules. The encryption keys used are as follows:
