@@ -1,0 +1,26 @@
+body {
+    background-color: #F3F5FC;
+    color: #0A3871;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+  }
+  
+// Estilos para escritorio
+@media screen and (min-width: 1024px) {
+    // Agrega aquí los estilos específicos para la vista de escritorio
+    // Puedes agregar reglas CSS adicionales para adaptar la apariencia y el diseño
+  }
+  
+  // Estilos para tablet
+  @media screen and (min-width: 768px) and (max-width: 1023px) {
+    // Agrega aquí los estilos específicos para la vista de tablet
+    // Puedes agregar reglas CSS adicionales para adaptar la apariencia y el diseño
+  }
+  
+  // Estilos para celular
+  @media screen and (max-width: 767px) {
+    // Agrega aquí los estilos específicos para la vista de celular
+    // Puedes agregar reglas CSS adicionales para adaptar la apariencia y el diseño
+  }
+  
