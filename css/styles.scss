@@ -5,22 +5,36 @@ body {
     font-weight: 400;
     font-size: 32px;
   }
+
+  .result-container {
+    position: relative;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 150px;
+    resize: none;
+  }
+  
+  .button-container button {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+  }
+  
   
 // Estilos para escritorio
 @media screen and (min-width: 1024px) {
-    // Agrega aquí los estilos específicos para la vista de escritorio
-    // Puedes agregar reglas CSS adicionales para adaptar la apariencia y el diseño
+
   }
   
   // Estilos para tablet
   @media screen and (min-width: 768px) and (max-width: 1023px) {
-    // Agrega aquí los estilos específicos para la vista de tablet
-    // Puedes agregar reglas CSS adicionales para adaptar la apariencia y el diseño
+
   }
   
   // Estilos para celular
   @media screen and (max-width: 767px) {
-    // Agrega aquí los estilos específicos para la vista de celular
-    // Puedes agregar reglas CSS adicionales para adaptar la apariencia y el diseño
+
   }
   
